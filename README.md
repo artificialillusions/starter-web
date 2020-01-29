@@ -13,6 +13,6 @@ As stated above, the main purpose is to show simple examples.
 
 ## Deployment
 
-Sample website with plenty of files for demos
+This a simple project, Deployment can be done on any web server or even locally.
 
 ## HOW TO CONTRIBUTE
