@@ -10,6 +10,8 @@ This example is to show different parts of the Git Repo and various commands usi
 ## Purpose
 
 As stated above, the main purpose is to show simple examples.
+note
+note2
 
 ## Deployment
 
