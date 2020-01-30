@@ -19,6 +19,7 @@ This a simple project, Deployment can be done on any web server or even locally.
 
 ## HOW TO CONTRIBUTE
 
+Please fork this Repository and then issue a Pull Request for review.
 
 ## Copyright
 
