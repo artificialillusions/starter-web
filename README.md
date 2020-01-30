@@ -18,3 +18,8 @@ note2
 This a simple project, Deployment can be done on any web server or even locally.
 
 ## HOW TO CONTRIBUTE
+
+
+## Copyright
+
+Copyright 2020 www.artificialillusions.vision
